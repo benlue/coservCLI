@@ -1,0 +1,24 @@
+
+Usage: xs [command] {OPTIONS}
+
+Command:
+    create  create a new web application (website). OPTIONS should be the
+            name of the web app.
+
+    service start, stop or restart a coServ instance. If no OPTIONS is given,
+            it will start a coServ instance. To stop or restart coServ, set
+            OPTIONS to 'stop' or 'restart' respectively.
+
+Examples:
+* To create a new web app named "my-app", the following command can be used:
+  > xs create my-app
+
+* To start coServ, try:
+  > xs service
+
+* To stop coServ, try:
+  > xs service stop
+
+* To restart coServ, try:
+  > xs service restart
+

@@ -1,0 +1,33 @@
+{
+  "name": "@coserv/cli",
+  "version": "0.1.1",
+  "description": "Command line tools for the coServ web server",
+  "bin": {
+    "xs": "./bin/xs"
+  },
+  "main": "cmd.js",
+  "engines": {
+    "node": ">=8.9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "coServ",
+    "cli"
+  ],
+  "author": "Ben Lue",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "coserv": "^0.12.5",
+    "forever-monitor": "^1.7.1",
+    "recursive-copy": "^2.0.9",
+    "resolve": "^1.7.1",
+    "terminate": "^2.1.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
+}
