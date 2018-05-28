@@ -1,7 +1,7 @@
 @coserv/cli
 -----------
 
-This package is still in testing. Not recommend to install it yet.
+A command line tool of coServ. You can use it to create (initialize) new web applications and start/stop a coServ instance. It can help to save quite a few keyn strokes.
 
 ## Prerequisites
 
