@@ -1,6 +1,6 @@
 {
   "name": "@coserv/cli",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "Command line tools for the coServ web server",
   "bin": {
     "xs": "./bin/xs"
@@ -29,5 +29,13 @@
   "directories": {
     "lib": "lib"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coimotion/coservCLI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/coimotion/coservCLI/issues"
+  },
+  "homepage": "https://github.com/coimotion/coservCLI#readme"
 }
