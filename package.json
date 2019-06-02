@@ -20,7 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.5.1",
-    "coserv": "^1.0.0",
+    "coserv": "^1.0.1",
     "forever-monitor": "^1.7.1",
     "recursive-copy": "^2.0.9",
     "resolve": "^1.7.1",
