@@ -1,7 +1,7 @@
 @coserv/cli
 -----------
 
-A command line tool of coServ v1.0. You can use it to create (initialize) new web applications and start/stop a coServ instance. It can help to save quite a few keyn strokes. Please note that this command line tool does NOT work with coServ pre-release version (version &lt; 1.0).
+A command line tool for coServ v1.0. You can use it to create (initialize) web applications and start/stop a coServ server instance. It can help to save quite a few key strokes. Please note that this command line tool does NOT work with coServ pre-release versions (version &lt; 1.0).
 
 ## Prerequisites
 
