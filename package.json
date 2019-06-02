@@ -1,6 +1,6 @@
 {
   "name": "@coserv/cli",
-  "version": "0.1.6",
+  "version": "0.2.0",
   "description": "Command line tools for the coServ web server",
   "bin": {
     "xs": "./bin/xs"
@@ -20,7 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.5.1",
-    "coserv": "^0.12.5",
+    "coserv": "^1.0.0",
     "forever-monitor": "^1.7.1",
     "recursive-copy": "^2.0.9",
     "resolve": "^1.7.1",
@@ -32,10 +32,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coimotion/coservCLI.git"
+    "url": "git+https://github.com/benlue/coservCLI.git"
   },
   "bugs": {
-    "url": "https://github.com/coimotion/coservCLI/issues"
+    "url": "https://github.com/benlue/coservCLI/issues"
   },
-  "homepage": "https://github.com/coimotion/coservCLI#readme"
+  "homepage": "https://github.com/benlue/coservCLI#readme"
 }
