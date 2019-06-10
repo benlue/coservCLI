@@ -1,6 +1,6 @@
 {
   "name": "@coserv/cli",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Command line tools for the coServ web server",
   "bin": {
     "xs": "./bin/xs"
@@ -20,7 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.5.1",
-    "coserv": "^1.0.3",
+    "coserv": "^1.0.4",
     "forever-monitor": "^1.7.1",
     "recursive-copy": "^2.0.9",
     "resolve": "^1.7.1",
