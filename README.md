@@ -15,10 +15,10 @@ Both the CLI and generated project have dependencies that require Node 8.9.0 or 
 
 To create a new web app:
 
-    cd your_target_directory
+    cd your_working_directory
     xs create app_name
 
-To start coServ using CLI:
+To start coServ using CLI: stay in your working directory and use the following commands
 
     # start the service
     xs service
